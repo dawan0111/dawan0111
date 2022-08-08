@@ -1,15 +1,21 @@
 <h1 align="center">Hi 👋, I'm Kim Dae Wan</h1>
-<h3 align="center">A Curious frontend developer</h3>
+<h3 align="center">
+<p>A Curious frontend developer</p>
+<a href="https://solved.ac/dawan0111" target="blank"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dawan0111" alt="dawan0111" style="display:inline-block" /></a>
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dawan0111&label=Profile%20views&color=0e75b6&style=flat" alt="dawan0111" /> </p>
 
-- 🌱 I’m currently learning **openCV, C++, Redux**
+- 🌱 I’m currently learning **ROS, C++, Python**
 
 - 👨‍💻 All of my projects are available at [https://www.notion.so/ggdww/Kim-Dae-Wan-fdcc28db02174cc2ad2a566330184811](https://www.notion.so/ggdww/Kim-Dae-Wan-fdcc28db02174cc2ad2a566330184811)
 
 - 📝 I regularly write articles on [https://dawan0111.github.io](https://dawan0111.github.io)
 
 - 📫 How to reach me **msd030428@gmail.com**
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
