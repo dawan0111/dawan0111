@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **ROS, C++, Python**
 
-- 👨‍💻 All of my projects are available at [https://www.notion.so/ggdww/Kim-Dae-Wan-fdcc28db02174cc2ad2a566330184811](https://www.notion.so/ggdww/Kim-Dae-Wan-fdcc28db02174cc2ad2a566330184811)
+- 👨‍💻 All of my projects are available at [https://ggdww.notion.site/Kim-Dae-Wan-771d62cd2abb4dbb81290e922d582354](https://ggdww.notion.site/Kim-Dae-Wan-771d62cd2abb4dbb81290e922d582354)
 
 - 📝 I regularly write articles on [https://dawan0111.github.io](https://dawan0111.github.io)
 
