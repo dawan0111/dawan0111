@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kim Dae Wan</h1>
 <h3 align="center">
-<p>A Curious frontend developer</p>
+<p>A Curious Robot developer</p>
 <a href="https://solved.ac/dawan0111" target="blank"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dawan0111" alt="dawan0111" style="display:inline-block" /></a>
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dawan0111&label=Profile%20views&color=0e75b6&style=flat" alt="dawan0111" /> </p>
 
-- 🌱 I’m currently learning **ROS, C++, Python**
+- 🌱 I’m currently learning **ROS2, ROS, C++, Python**
 
 - 👨‍💻 All of my projects are available at [https://ggdww.notion.site/Kim-Dae-Wan-771d62cd2abb4dbb81290e922d582354](https://ggdww.notion.site/Kim-Dae-Wan-771d62cd2abb4dbb81290e922d582354)
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/dae_wan_1111" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="dae_wan_1111" height="40" width="40" /></a>
+<a href="https://instagram.com/dae_wan_23" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="dae_wan_1111" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
