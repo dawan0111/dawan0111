@@ -20,6 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/dae_wan_23" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="dae_wan_1111" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/대완-김-02607b208" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1920px-LinkedIn_icon.svg.png" alt="dae_wan_1111" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
