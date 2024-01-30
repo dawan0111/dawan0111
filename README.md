@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kim Dae Wan</h1>
 <h3 align="center">
 <p>Robot developer</p>
-<a href="https://solved.ac/dawan0111" target="blank"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dawan0111" alt="dawan0111" style="display:inline-block" /></a>
 </h3>
 
 
