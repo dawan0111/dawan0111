@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kim Dae Wan</h1>
 <h3 align="center">
-<p>A Curious Robot developer</p>
+<p>Robot developer</p>
 <a href="https://solved.ac/dawan0111" target="blank"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dawan0111" alt="dawan0111" style="display:inline-block" /></a>
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dawan0111&label=Profile%20views&color=0e75b6&style=flat" alt="dawan0111" /> </p>
 
 - 🌱 I’m currently learning **ROS2, ROS, C++, Pytorch**
 
