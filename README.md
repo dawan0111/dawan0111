@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kim Dae Wan</h1>
 <h3 align="center">
-<p>Robot developer</p>
+<p>Software developer</p>
 </h3>
 
 
-- 🌱 I’m currently learning **ROS2, ROS, C++, Pytorch**
+- 🌱 I’m currently learning **ROS2, C++, Pytorch**
 
 - 👨‍💻 All of my projects are available at [https://ggdww.notion.site/Kim-Dae-Wan-771d62cd2abb4dbb81290e922d582354](https://ggdww.notion.site/Kim-Dae-Wan-771d62cd2abb4dbb81290e922d582354)
 
