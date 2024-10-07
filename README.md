@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **ROS2, C++, SLAM**
 
-- 👨‍💻 All of my projects are available at [https://ggdww.notion.site/Kim-Dae-Wan-771d62cd2abb4dbb81290e922d582354](https://ggdww.notion.site/Kim-Dae-Wan-771d62cd2abb4dbb81290e922d582354)
+- 👨‍💻 All of my projects are available at [Portfolio](https://ggdww.notion.site/Kim-Dae-Wan-771d62cd2abb4dbb81290e922d582354)
 
 - 📝 Learning note [📚 Study note](https://ggdww.notion.site/ggdww/739c12599b3242839b00d7ca43eb13db)
 
