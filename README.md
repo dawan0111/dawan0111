@@ -1,37 +1,75 @@
-<h1 align="center">Hi 👋, I'm Kim Dae Wan</h1>
-<h3 align="center">
-<p>Software developer</p>
-</h3>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=🤖%20Robotics%20Researcher%20🚀&fontSize=40)
 
-
-- 🌱 I’m currently learning **ROS2, C++, SLAM**
-
-- 👨‍💻 All of my projects are available at [Portfolio](https://ggdww.notion.site/Kim-Dae-Wan-771d62cd2abb4dbb81290e922d582354)
-
-- 📝 Learning note [📚 Study note](https://ggdww.notion.site/ggdww/739c12599b3242839b00d7ca43eb13db)
-
-- 📫 How to reach me **msd030428@gmail.com**
-
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/dae_wan_23" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="dae_wan_1111" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/대완-김-02607b208" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1920px-LinkedIn_icon.svg.png" alt="dae_wan_1111" height="40" width="40" /></a>
+<p align="right">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdawan0111%2Fhit-counter" alt="Top Langs" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <img src="https://img.shields.io/badge/ros-22314E?style=for-the-badge&logo=ros&logoColor=white"> <br />
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> 
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> <br />
-  <img src="https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
-  <img src="https://img.shields.io/badge/illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white">
+<p align="center"> <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> </p>
+
+### 👨‍🔧 Introduction
+
+> I have been studying robotics, specializing in **robot perception, SLAM, and motion planning**. My research focuses on **robot manipulation**, **autonomous driving**, and **reinforcement learning**. Additionally, I am interested in **AI-based robotics applications**. I welcome discussions on these topics!
+
+<br/>
+
+### 🎓 Education & Research
+
+- 🔹 **AIRO Lab, Hanyang University** – Research Student _(2025.02 ~ Present)_
+- 🔹 **AuRTOBO Robotics Social Club (6th Generation Member)** _(2025.01 ~ Present)_
+- 🔹 **AuRTOBO Robotics Social Club (5th Generation Member)** _(2024.02 ~ 2024.12)_
+- 🔹 **AI Robotics KR Perception Study** _(2024.01 ~ 2024.06)_
+- 🔹 **Greep Autonomous Driving AI Dev Course (5th Batch)** _(2023.03 ~ 2023.08)_
+- 🔹 **E-RUS Robotics Education Program** _(2021.03 ~ 2021.12)_
+- 🔹 **Hanyang University ERICA – Robotics Convergence Major** _(2020.03 ~ Present)_
+- 🔹 **Shinsung ICT Co., Ltd.** _(2019.01 ~ 2023.01)_
+
+<br/>
+
+### 🔬 Research & Projects
+
+#### **2025**
+- 🔹 **AuRTOBO** – Mobile Manipulator Project _(Ongoing)_
+
+#### **2024**
+- 🔹 **AuRTOBO** – Robot Delivery Simulator (RDSim)
+- 🔹 **AIRO Labs** – LLM-Based Social Robot V2 (Soler)
+
+#### **2023**
+- 🔹 **AuRTOBO** – YACYAC (Time-Scheduled Medication Robot)
+- 🔹 **Grepp** – Model Road Autonomous Driving and Deep SLAM Project
+- 🔹 **E-RUS** – LLM-Based Social Robot (EMOTIBOT)
+
+#### **2022**
+- 🔹 **E-RUS** – 3D Virtual Tour Creator Robot (V9D Robot)
+- 🔹 **IC-PBL** – Recycling Automation Classification System
+- 🔹 **Capstone** – Gym Exercise Assistant Robot
+
+<br/>
+
+### 🚀 Research Interests
+
+> 🔸 **SLAM & Localization**  
+> 🔸 **Motion Planning**  
+> 🔸 **Reinforcement Learning (RL)**  
+> 🔸 **Robot Manipulation**  
+> 🔸 **Autonomous Driving**  
+
+<br/>
+
+### 📫 Contact Me
+
+<p align="center">
+<a href="https://github.com/dawan0111">
+  <img src="http://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub Badge">
+</a>
+<a href="mailto:msd030428@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge">
+</a>
+<a href="https://www.youtube.com/@DaeWan23/videos">
+  <img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@DaeWan23/videos" alt="YouTube Badge">
+</a>
 </p>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer)
+
+---
