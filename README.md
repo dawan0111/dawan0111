@@ -25,27 +25,6 @@
 
 <br/>
 
-### 🔬 Research & Projects
-
-#### **2025**
-- 🔹 **AuRTOBO** – Mobile Manipulator Project _(Ongoing)_
-
-#### **2024**
-- 🔹 **AuRTOBO** – Robot Delivery Simulator (RDSim)
-- 🔹 **AIRO Labs** – LLM-Based Social Robot V2 (Soler)
-
-#### **2023**
-- 🔹 **AuRTOBO** – YACYAC (Time-Scheduled Medication Robot)
-- 🔹 **Grepp** – Model Road Autonomous Driving and Deep SLAM Project
-- 🔹 **E-RUS** – LLM-Based Social Robot (EMOTIBOT)
-
-#### **2022**
-- 🔹 **E-RUS** – 3D Virtual Tour Creator Robot (V9D Robot)
-- 🔹 **IC-PBL** – Recycling Automation Classification System
-- 🔹 **Capstone** – Gym Exercise Assistant Robot
-
-<br/>
-
 ### 🚀 Research Interests
 
 > 🔸 **SLAM & Localization**  
